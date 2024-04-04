@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+.mainnav {
+    display:flex;
+    height:80px;
+    background: black;
+}
+a[href="selector.html"] {
+    color:green;
+    margin-right: 800px;
+    margin-left:150px;
+        font-size:50px;
+
+}
+a[href="properties.html"] {
+    color:green;
+    
+    font-size:50px;
+}
+a{
+    text-decoration:none;
+}
+body{
+    background-image: url(coding.gif);
+}
+.text{
+    background:black;
+    width:auto;
+}
+h1,p {
+    color:green;
+}
